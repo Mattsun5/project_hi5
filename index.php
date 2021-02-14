@@ -369,7 +369,7 @@
                     
                 </script>
                 <div class="showAlert"></div>
-                <form method="POST" >
+                <form method="POST" action="index.php">
                     <div>
                         <input type="text" autocomplete="off"  name="name" size="30" id="" required>
                         <label for="name" >Name</label>
