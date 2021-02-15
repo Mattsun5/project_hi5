@@ -146,7 +146,7 @@ h1{
     /* border: 1px solid black; */
 }
 .page1 div p, .page2 p{
-    font-size: 17px;
+    font-size: 13px;
     /* border: 1px solid black; */
 }
 .page1 .text{
@@ -328,7 +328,7 @@ hr{
     padding: 20px;
 }
 .htdp{
-    width: 100%;
+    width: 80%;
     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
 }
 .gallery{
@@ -361,9 +361,9 @@ hr{
     /* padding: 10px; */
     max-height: 430px;
     display: grid;
-    /* border: 1px solid white; */
-    grid-template-columns: repeat(7, 76px);
-    grid-template-rows: repeat(6, 60px); 
+    /* border: 2px solid pink; */
+    grid-template-columns: repeat(7, 62px);
+    grid-template-rows: repeat(6, 62px); 
     /* flex-direction: row;
     flex-grow: unset; */
     grid-auto-flow: row dense;
@@ -479,7 +479,7 @@ hr{
         box-shadow: none;
         margin: 3px 0px;
         margin-top: 0px;
-        line-height:1.5rem;
+        line-height:1.8rem;
         /* padding-left: 80px; */
     }
     .diff, .diffy, .diffy21{
@@ -1463,8 +1463,8 @@ footer i, footer text{
         max-height: 430px;
         /* display: grid; */
         /* border: 1px solid white; */
-        grid-template-columns: repeat(7, 66px);
-        grid-template-rows: repeat(6, 50px); 
+        grid-template-columns: repeat(7, 62px);
+    grid-template-rows: repeat(6, 62px);  
         /* flex-direction: row;
         flex-grow: unset; */
         /* grid-auto-flow: row dense;
