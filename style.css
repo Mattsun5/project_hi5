@@ -21,6 +21,9 @@
     transition-duration: 400;
     transition-timing-function: ease-in-out;
 } 
+p{
+    font-size: 13px !important;
+}
 body{
     width: 100vw;
     /* border: 2px solid black; */
@@ -320,7 +323,7 @@ hr{
     
 }
 .htd{
-    width: 100%;
+    width: 80%;
     text-align: center;
     padding: 20px;
 }
@@ -356,7 +359,7 @@ hr{
     width:62%;
     /* border: 1px solid yellow; */
     /* padding: 10px; */
-
+    max-height: 430px;
     display: grid;
     /* border: 1px solid white; */
     grid-template-columns: repeat(7, 76px);
@@ -907,7 +910,7 @@ footer i, footer text{
         /* width:62%; */
         /* border: 1px solid black; */
         /* padding: 10px; */
-    
+        max-height: 430px;
         /* display: grid; */
         /* border: 1px solid white; */
         grid-template-columns: repeat(7, 66px);
