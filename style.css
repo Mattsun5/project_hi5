@@ -357,9 +357,9 @@ hr{
 }
 .gallery .grid{
     width:62%;
-    /* border: 1px solid yellow; */
+    /* border: 2px solid yellow; */
     /* padding: 10px; */
-    max-height: 430px;
+    height: 384px;
     display: grid;
     /* border: 2px solid pink; */
     grid-template-columns: repeat(7, 62px);
@@ -370,6 +370,9 @@ hr{
     grid-gap: 1px;
     /* flex-flow: row;
     flex-wrap: wrap; */
+}
+.gallery .grid div{
+    background-color: var(--orange);
 }
 .gallery .grid img{
     width: 100%;

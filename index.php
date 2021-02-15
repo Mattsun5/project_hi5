@@ -55,7 +55,7 @@
             <div class='text1'>
                 <h1>What We Do</h1><br ><br >
                 <span><hr ></span>
-                <p>Hi5 Africa is on the verge of creating a strong platform 
+                <p style='font-size: 13px;'>Hi5 Africa is on the verge of creating a strong platform 
                     for the unseen and unheard creators and successful entrepreneurs 
                     in Africa at any level to connect, empowered and be connected across the world.</p>
             </div>
@@ -132,43 +132,117 @@
 
                     </div>
                     <div class="grid">
-                        <img class = "1.jpg" src="uploads/1.jpg" alt="" onclick="display('1.jpg')">
-                        <img class="twocol 8.jpg" src="uploads/8.jpg" alt="" onclick="display('8.jpg')">
-                        <img class = "10.jpg" src="uploads/10.jpg" alt="" onclick="display('10.jpg')">
-                        <img class="tworow 12.jpg" src="uploads/12.jpg" alt="" onclick="display('12.jpg')">
-                        <img class="twocol 13-1.jpg" src="uploads/13-1.jpg" alt="" onclick="display('13-1.jpg')">
-                        <img class="14.jpg" src="uploads/14.jpg" alt="" onclick="display('14.jpg')">
-                        <img class="16-1.jpg" src="uploads/16-1.jpg" alt="" onclick="display('16-1.jpg')">
-                        <img class="19.jpg" src="uploads/19.jpg" alt="" onclick="display('19.jpg')">
-                        <img class="2.jpg" src="uploads/2.jpg" alt="" onclick="display('2.jpg')">
-                        <img class="21-2.jpg" src="uploads/21-2.jpg" alt="" onclick="display('21-2.jpg')">
-                        <img class="22.jpg" src="uploads/22.jpg" alt="" onclick="display('22.jpg')">
-                        <img class="twocol 23-1.jpg" src="uploads/23-1.jpg" alt="" onclick="display('23-1.jpg')">
-                        <img class="28.jpg" src="uploads/28.jpg" alt="" onclick="display('28.jpg')">
-                        <img class="31.jpg" src="uploads/31.jpg" alt="" onclick="display('31.jpg')">
-                        <img class="35.jpg" src="uploads/35.jpg" alt="" onclick="display('35.jpg')">
-                        <img class="38.jpg" src="uploads/38.jpg" alt="" onclick="display('38.jpg')">
-                        <img class="twocol 39.jpg" src="uploads/39.jpg" alt="" onclick="display('39.jpg')">
-                        <img class="45.jpg" src="uploads/45.jpg" alt="" onclick="display('45.jpg')">
-                        <img class="46.jpg" src="uploads/46.jpg" alt="" onclick="display('46.jpg')">
-                        <img class="48.jpg" src="uploads/48.jpg" alt="" onclick="display('48.jpg')">
-                        <img class="tworow 49.jpg" src="uploads/49.jpg" alt="" onclick="display('49.jpg')">
-                        <img class="5.jpg" src="uploads/5.jpg" alt="" onclick="display('5.jpg')">
-                        <img class="50.jpg" src="uploads/50.jpg" alt="" onclick="display('50.jpg')">
-                        <img class="54.jpg" src="uploads/54.jpg" alt="" onclick="display('54.jpg')">
-                        <img class="55.jpg" src="uploads/55.jpg" alt="" onclick="display('55.jpg')">
-                        <img class="57.jpg" src="uploads/57.jpg" alt="" onclick="display('57.jpg')">
-                        <img class="twocol 58.jpg" src="uploads/58.jpg" alt="" onclick="display('58.jpg')">
-                        <img class="tworow 60.jpg" src="uploads/60.jpg" alt="" onclick="display('60.jpg')">
-                        <img class="61.jpg" src="uploads/61.jpg" alt="" onclick="display('61.jpg')">
-                        <img class="tworow 65.jpg" src="uploads/65.jpg" alt="" onclick="display('65.jpg')">
-                        <img class="tworow 66.jpg" src="uploads/66.jpg" alt="" onclick="display('66.jpg')">
-                        <img class="twocol 86.jpg" src="uploads/86.jpg" alt="" onclick="display('86.jpg')">
-                        <img class="tworow 89.jpg" src="uploads/89.jpg" alt="" onclick="display('89.jpg')">
-                        <img class="87.jpg" src="uploads/87.jpg" alt="" onclick="display('87.jpg')">
-                        <img class="77.jpg" src="uploads/77.jpg" alt="" onclick="display('77.jpg')">
-                        <img class="8.jpg" src="uploads/8.jpg" alt="" onclick="display('8.jpg')">
-                        <img class="73.jpg" src="uploads/73.jpg" alt="" onclick="display('73.jpg')">
+                        <div class = "1.jpg">
+                            <img  src="uploads/1.jpg" alt="" onclick="display('1.jpg')">
+                            </div>
+                        <div class="twocol 8.jpg">
+                            <img  src="uploads/8.jpg" alt="" onclick="display('8.jpg')">
+                            </div>
+                        <div class = "10.jpg">
+                            <img  src="uploads/10.jpg" alt="" onclick="display('10.jpg')">
+                            </div>
+                        <div class="tworow 12.jpg">
+                            <img  src="uploads/12.jpg" alt="" onclick="display('12.jpg')">
+                            </div>
+                        <div class="twocol 13-1.jpg">
+                            <img  src="uploads/13-1.jpg" alt="" onclick="display('13-1.jpg')">
+                            </div>
+                        <div class="14.jpg">
+                            <img  src="uploads/14.jpg" alt="" onclick="display('14.jpg')">
+                            </div>
+                        <div class="16-1.jpg">
+                            <img  src="uploads/16-1.jpg" alt="" onclick="display('16-1.jpg')">
+                            </div>
+                        <div class="19.jpg">
+                            <img  src="uploads/19.jpg" alt="" onclick="display('19.jpg')">
+                            </div>
+                        <div class="2.jpg">
+                            <img  src="uploads/2.jpg" alt="" onclick="display('2.jpg')">
+                            </div>
+                        <div class="21-2.jpg">
+                            <img  src="uploads/21-2.jpg" alt="" onclick="display('21-2.jpg')">
+                            </div>
+                        <div class="22.jpg">
+                            <img  src="uploads/22.jpg" alt="" onclick="display('22.jpg')">
+                            </div>
+                        <div class="twocol 23-1.jpg">
+                            <img  src="uploads/23-1.jpg" alt="" onclick="display('23-1.jpg')">
+                            </div>
+                        <div class="28.jpg">
+                            <img  src="uploads/28.jpg" alt="" onclick="display('28.jpg')">
+                            </div>
+                        <div class="31.jpg">
+                            <img  src="uploads/31.jpg" alt="" onclick="display('31.jpg')">
+                            </div>
+                        <div class="35.jpg">
+                            <img  src="uploads/35.jpg" alt="" onclick="display('35.jpg')">
+                            </div>
+                        <div class="38.jpg">
+                            <img  src="uploads/38.jpg" alt="" onclick="display('38.jpg')">
+                            </div>
+                        <div class="twocol 39.jpg">
+                            <img  src="uploads/39.jpg" alt="" onclick="display('39.jpg')">
+                            </div>
+                        <div class="45.jpg">
+                            <img  src="uploads/45.jpg" alt="" onclick="display('45.jpg')">
+                            </div>
+                        <div class="46.jpg">
+                            <img  src="uploads/46.jpg" alt="" onclick="display('46.jpg')">
+                            </div>
+                        <div class="48.jpg">
+                            <img  src="uploads/48.jpg" alt="" onclick="display('48.jpg')">
+                            </div>
+                        <div class="tworow 49.jpg">
+                            <img  src="uploads/49.jpg" alt="" onclick="display('49.jpg')">
+                            </div>
+                        <div class="5.jpg">
+                            <img  src="uploads/5.jpg" alt="" onclick="display('5.jpg')">
+                            </div>
+                        <div class="50.jpg">
+                            <img  src="uploads/50.jpg" alt="" onclick="display('50.jpg')">
+                            </div>
+                        <div class="54.jpg">
+                            <img  src="uploads/54.jpg" alt="" onclick="display('54.jpg')">
+                            </div>
+                        <div class="55.jpg">
+                            <img  src="uploads/55.jpg" alt="" onclick="display('55.jpg')">
+                            </div>
+                        <div class="57.jpg">
+                            <img  src="uploads/57.jpg" alt="" onclick="display('57.jpg')">
+                            </div>
+                        <div class="twocol 58.jpg">
+                            <img  src="uploads/58.jpg" alt="" onclick="display('58.jpg')">
+                            </div>
+                        <div class="tworow 60.jpg">
+                            <img  src="uploads/60.jpg" alt="" onclick="display('60.jpg')">
+                            </div>
+                        <div class="61.jpg">
+                            <img  src="uploads/61.jpg" alt="" onclick="display('61.jpg')">
+                            </div>
+                        <div class="tworow 65.jpg">
+                            <img  src="uploads/65.jpg" alt="" onclick="display('65.jpg')">
+                            </div>
+                        <div class="tworow 66.jpg">
+                            <img  src="uploads/66.jpg" alt="" onclick="display('66.jpg')">
+                            </div>
+                        <div class="twocol 86.jpg">
+                            <img  src="uploads/86.jpg" alt="" onclick="display('86.jpg')">
+                            </div>
+                        <div class="tworow 89.jpg">
+                            <img  src="uploads/89.jpg" alt="" onclick="display('89.jpg')">
+                            </div>
+                        <div class="87.jpg">
+                            <img  src="uploads/87.jpg" alt="" onclick="display('87.jpg')">
+                            </div>
+                        <div class="77.jpg">
+                            <img  src="uploads/77.jpg" alt="" onclick="display('77.jpg')">
+                            </div>
+                        <div class="8.jpg">
+                            <img  src="uploads/8.jpg" alt="" onclick="display('8.jpg')">
+                            </div>
+                        <div class="73.jpg">
+                            <img  src="uploads/73.jpg" alt="" onclick="display('73.jpg')">
+                            </div>
                     </div>
                 </div>
             </div>
@@ -255,7 +329,7 @@
                 </ul>
             </div>
         </div>
-        <div class="ibmcsub">
+        <div class="ibmcsub" style='font-size: 13px;'>
             <p>So Ibadan people are you ready?
 
             Come! Let's connect, meet, and interact directly with media experts at the <b>IBADAN MEDIA CONNECT 2021</b>, <br >coming up on the <b>27th of February 2021.</b><br >
