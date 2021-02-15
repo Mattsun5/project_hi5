@@ -330,7 +330,7 @@
             </div>
         </div>
         <div class="ibmcsub" style="font-size: 10px; !important">
-            <p>So Ibadan people are you ready?
+            <p style="font-size: 10px; !important">So Ibadan people are you ready?
 
             Come! Let's connect, meet, and interact directly with media experts at the <b>IBADAN MEDIA CONNECT 2021</b>, <br >coming up on the <b>27th of February 2021.</b><br >
 
