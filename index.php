@@ -55,7 +55,7 @@
             <div class='text1'>
                 <h1>What We Do</h1><br ><br >
                 <span><hr ></span>
-                <p style='font-size: 13px;'>Hi5 Africa is on the verge of creating a strong platform 
+                <p style="font-size: 10px; !important">Hi5 Africa is on the verge of creating a strong platform 
                     for the unseen and unheard creators and successful entrepreneurs 
                     in Africa at any level to connect, empowered and be connected across the world.</p>
             </div>
@@ -329,7 +329,7 @@
                 </ul>
             </div>
         </div>
-        <div class="ibmcsub" style='font-size: 13px;'>
+        <div class="ibmcsub" style="font-size: 10px; !important">
             <p>So Ibadan people are you ready?
 
             Come! Let's connect, meet, and interact directly with media experts at the <b>IBADAN MEDIA CONNECT 2021</b>, <br >coming up on the <b>27th of February 2021.</b><br >
